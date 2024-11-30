@@ -23,3 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+
+I learned how to efficiently transform, merge, and analyze datasets, clean and standardize columns, adjust salaries for cost-of-living differences, and create meaningful pivot tables to uncover insights across various demographics and locations.
