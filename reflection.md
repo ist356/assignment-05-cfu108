@@ -29,3 +29,5 @@ I learned how to efficiently transform, merge, and analyze datasets, clean and s
 Building the ETL pipeline with pandas reinforced my understanding of data extraction, transformation, and normalization. The process felt practical and rewarding.
 
 Cleaning and merging datasets improved my skills in handling real-world data challenges, such as mismatched formats and incomplete entries.
+
+Cleaning and merging datasets improved my skills in handling real-world data challenges, such as mismatched formats and incomplete entries.
