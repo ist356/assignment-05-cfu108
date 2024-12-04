@@ -27,3 +27,5 @@ Examples:
 I learned how to efficiently transform, merge, and analyze datasets, clean and standardize columns, adjust salaries for cost-of-living differences, and create meaningful pivot tables to uncover insights across various demographics and locations.
 
 Building the ETL pipeline with pandas reinforced my understanding of data extraction, transformation, and normalization. The process felt practical and rewarding.
+
+Cleaning and merging datasets improved my skills in handling real-world data challenges, such as mismatched formats and incomplete entries.
