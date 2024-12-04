@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Chenyiwei
+Sudent Email:  Fu
 
 ## Instructions
 
